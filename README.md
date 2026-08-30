@@ -5,7 +5,4 @@
 - Sporten
 - Rotterdam
 - 26 jaar
-
-## Kaj
-- ZZPer
-- 24 jaar
+- Ik heb een broertje genaamd Kaj
