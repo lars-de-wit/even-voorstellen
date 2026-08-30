@@ -18,6 +18,11 @@ Daarna heb ik doorgestudeerd en heb ik mijn bachelor afgerond
 Ik ga al les aan ouderen, en ik vond het lesgeven hier zo leuk dat ik heb besloten
 de switch te maken.
 
+Ik weet niet wat ik nog meer moet vertellen maar dit is het dan.
+Over meerdere regels heb ik mijzelf uitgelegd.
+
+Voila!
+
 
 ## Nilesh Debi
 Ik ben Nilesh, ik ben erg goed in Kubernetes en DevOps in het algemeen
