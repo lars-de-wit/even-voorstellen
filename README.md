@@ -22,3 +22,8 @@ Ik weet niet wat ik nog meer moet vertellen maar dit is het dan.
 Over meerdere regels heb ik mijzelf uitgelegd.
 
 Voila!
+
+
+## Nilesh Debi
+Ik ben Nilesh, ik ben erg goed in Kubernetes en DevOps in het algemeen
+Nu lijkt het me cool om jullie te helpen bij vragen, dus stel ze gerust!
