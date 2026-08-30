@@ -2,7 +2,6 @@
 
 ## Lars de Wit
 - Gamen
-- Voetballen
-- Hardlopen
+- Sporten
 - Rotterdam
 - 26 jaar
